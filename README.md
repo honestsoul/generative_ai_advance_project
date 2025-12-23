@@ -2,7 +2,7 @@
 
 A production-ready, enterprise-grade template for Generative AI projects with RAG capabilities.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
