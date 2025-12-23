@@ -40,7 +40,7 @@ docker-compose up -d
 ./scripts/run_local.sh
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 genai_project/
@@ -91,7 +91,7 @@ genai_project/
 └── artifacts/                # Local outputs
 ```
 
-## 🔧 Features
+## Features
 
 ### LLM Providers
 - OpenAI (GPT-4, GPT-4o)
@@ -110,7 +110,7 @@ genai_project/
 - Docker deployment
 - GitHub Actions CI
 
-## 🧪 Development
+## Development
 
 ```bash
 # Run tests
