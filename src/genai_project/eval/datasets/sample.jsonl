@@ -1,0 +1,3 @@
+{"id": "1", "input": "What is 2+2?", "expected": "4", "metadata": {"category": "math"}}
+{"id": "2", "input": "What is the capital of France?", "expected": "Paris", "metadata": {"category": "geography"}}
+{"id": "3", "input": "What color is the sky on a clear day?", "expected": "blue", "metadata": {"category": "general"}}
